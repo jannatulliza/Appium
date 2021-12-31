@@ -1,0 +1,21 @@
+[ {
+  "uid" : "27b21869ef317a7c",
+  "name" : "Verify that the detail results",
+  "time" : {
+    "start" : 1640971469285,
+    "stop" : 1640971495133,
+    "duration" : 25848
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ba03a7fdf62e654",
+  "name" : "Check Compare Loans Functionality",
+  "time" : {
+    "start" : 1640971495134,
+    "stop" : 1640971507315,
+    "duration" : 12181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

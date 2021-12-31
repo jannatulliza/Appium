@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Dec 31 23:24:29 BDT 2021","Fri Dec 31 23:24:55 BDT 2021","25848","","EMI Calculator Automation","","EMI Calculator Automation","Verify that the detail results","Verify that the detail results",""
+"passed","Fri Dec 31 23:24:55 BDT 2021","Fri Dec 31 23:25:07 BDT 2021","12181","","EMI Calculator Automation","","EMI Calculator Automation","Check Compare Loans Functionality","Check Compare Loans Functionality",""
